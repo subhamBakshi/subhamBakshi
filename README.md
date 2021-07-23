@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://user-images.githubusercontent.com/67575802/126782533-f859bc61-106e-4332-bba5-e8f122121d97.png" />
 <img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eclipse/eclipse.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -35,6 +35,9 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamBakshi&layout=compact)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=3193034f-494c-453c-909a-2435e238a7b1)
+
 
 <br />
 
