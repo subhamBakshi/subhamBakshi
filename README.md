@@ -38,9 +38,9 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://user-images.githubusercontent.com/67575802/126781870-ea86c7eb-8001-4c0c-8e53-213d2e787074.png" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://user-images.githubusercontent.com/67575802/126781827-33701c23-30c8-4d43-8ee9-c937f5e932e3.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/67575802/126781909-d6cb55b0-df09-4355-8ed9-d942aee070e0.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/67575802/126781561-ff8cc374-2755-433e-99e5-ced80a30b917.png" />][instagram]
 
 
