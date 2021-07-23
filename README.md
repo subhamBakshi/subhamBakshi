@@ -42,3 +42,6 @@
 [instagram]: https://www.instagram.com/s.u_b.h_a.m/
 [linkedin]: https://www.linkedin.com/in/subham-bakshi-71540a1aa/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamBakshi)]
+
+
