@@ -1,6 +1,4 @@
-### Hi there, I'm Subham 👋
-
-## I'm A Noob Coder!!
+## Hi there, I'm Subham 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
