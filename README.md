@@ -1,7 +1,7 @@
 ## Hi there, I'm Subham 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m a software professional with Cognizant, supporting in .net
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and edit videos
 
